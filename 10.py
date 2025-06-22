@@ -1,0 +1,1 @@
+-scale(rank(ts_mean(equity/assets, 2)))
