@@ -1,0 +1,1 @@
+ts_mean(fn_oth_income_loss_fx_transaction_and_tax_translation_adj_a,252)
