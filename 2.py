@@ -1,0 +1,1 @@
+zscore(debt/assets)
